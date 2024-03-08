@@ -1,0 +1,65 @@
+[
+    {
+        "nomZone": "Coke",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": -30.4110, "y": 1943.0226,  "z": 190.1860, "h": 0},
+        "posOut":  {  "x" : 1088.608, "y": -3187.556, "z": -38.99349, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 0, "b": 200, "a" : 200}
+    },
+    {
+        "nomZone": "Meth",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": 23.3005, "y": 6487.9209,  "z": 31.5235, "h": 0},
+        "posOut":  {  "x" : 969.3636, "y": -147.137, "z": -46.4002, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 255, "b": 0, "a" : 255}
+    },
+    {
+        "nomZone": "Opium",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": -2531.5483, "y": 2303.5801,  "z": 33.2131, "h": 0},
+        "posOut":  {  "x" : 996.8143, "y": -3200.911, "z": -36.3937, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 255, "b": 0, "a" : 255}
+    },
+    {
+        "nomZone": "Weed",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": 2336.873, "y": 2604.622,  "z": 46.66766, "h": 0},
+        "posOut":  {  "x" : 1066.404, "y": -3183.554, "z": -39.16383, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 255, "b": 0, "a" : 255}
+    },
+    {
+        "nomZone": "Blanchisseur",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": 436.318, "y": 2996.245,  "z": 41.28378, "h": 0},
+        "posOut":  {  "x" : 1138.07, "y": -3199.096, "z": -39.67212, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 255, "b": 0, "a" : 255}
+    },
+    {
+        "nomZone": "Bureau Cartel",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": 5012.103, "y": -5744.938,  "z": 19.88035, "h": 0},
+        "posOut":  {  "x" : 5002.337, "y": -5752.542, "z": 28.68233, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 255, "b": 0, "a" : 255}
+    },
+    {
+        "nomZone": "TP-VillaCayo",
+        "zoneEnter": "Entrer",
+        "zoneOut": "Sortir",
+        "posIn":  {  "x": 1400.60, "y": 1165.13,  "z": 114.33, "h": 0},
+        "posOut":  {  "x" : 4995.375, "y": -5777.79, "z": 16.57759, "h": 0},
+        "markerID" : 27,
+        "markerColor" :{"r": 0, "g": 0, "b": 200, "a" : 200}
+    }
+]
